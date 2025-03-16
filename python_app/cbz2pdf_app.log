@@ -1,0 +1,9 @@
+2025-03-16 16:15:21,301 - INFO - 启动应用程序
+2025-03-16 16:15:31,903 - INFO - 开始转换 1 个文件
+2025-03-16 16:15:31,905 - INFO - 开始批量转换，共 1 个文件
+2025-03-16 16:15:31,906 - INFO - Converting The Iliad - Gareth Hinds.cbz (1/1)
+2025-03-16 16:15:31,906 - INFO - 转换文件: C:/Users/86153/Desktop/绘本/The Iliad - Gareth Hinds.cbz -> C:/Users/86153/Desktop/绘本/The Iliad - Gareth Hinds.pdf
+2025-03-16 16:15:41,801 - INFO - 文件 The Iliad - Gareth Hinds.cbz 转换成功
+2025-03-16 16:15:41,801 - INFO - 转换完成: 1 成功, 0 失败
+2025-03-16 16:15:41,810 - INFO - 转换线程结束
+2025-03-16 16:15:45,518 - INFO - 应用程序关闭

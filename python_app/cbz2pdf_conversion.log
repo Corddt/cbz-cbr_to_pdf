@@ -1,0 +1,15 @@
+2025-03-16 16:15:31,906 - INFO - 开始转换: C:/Users/86153/Desktop/绘本/The Iliad - Gareth Hinds.cbz
+2025-03-16 16:15:31,907 - INFO - 文件类型: .cbz
+2025-03-16 16:15:31,907 - INFO - 输出路径: C:/Users/86153/Desktop/绘本/The Iliad - Gareth Hinds.pdf
+2025-03-16 16:15:31,908 - INFO - 创建临时目录: C:\Users\86153\AppData\Local\Temp\tmp08wrqi4l
+2025-03-16 16:15:31,908 - INFO - 开始解压CBZ文件
+2025-03-16 16:15:32,295 - INFO - Successfully extracted C:/Users/86153/Desktop/绘本/The Iliad - Gareth Hinds.cbz
+2025-03-16 16:15:32,295 - INFO - 获取并排序图片文件
+2025-03-16 16:15:32,298 - INFO - 找到 264 个图片文件
+2025-03-16 16:15:32,298 - INFO - 开始创建PDF
+2025-03-16 16:15:32,298 - INFO - 开始创建PDF，共 264 张图片
+2025-03-16 16:15:41,705 - INFO - 成功处理了 264/264 张图片
+2025-03-16 16:15:41,705 - INFO - 写入最终PDF到: C:/Users/86153/Desktop/绘本/The Iliad - Gareth Hinds.pdf
+2025-03-16 16:15:41,755 - INFO - 成功创建PDF，文件大小: 57097544 字节
+2025-03-16 16:15:41,756 - INFO - 清理临时文件
+2025-03-16 16:15:41,801 - INFO - 转换成功完成
